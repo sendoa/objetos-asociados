@@ -1,1 +1,1 @@
-Código de ejemplo para el artículo [Sustituyendo delegados por bloques: introducción a los Objetos Asociados](http://www.punteroavoid.com).
+Código de ejemplo para el artículo [Sustituyendo delegados por bloques: introducción a los Objetos Asociados](http://www.punteroavoid.com/blog/2013/01/29/sustituyendo-delegados-por-bloques-introduccion-a-los-objetos-asociados/).
